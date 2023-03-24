@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-<br><br>
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jumping2000&show_icons=true&theme=gotham" alt="Gianpit" />
 
