@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 - 🔭 I’m currently working on:
-  -  DIY presence sensor base on LD2410C
+  -  DIY presence sensor based on LD2410C
   -  YAML packages for Home Assistant
 <!--END_SECTION:activity-->
 
