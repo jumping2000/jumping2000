@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=jumping2000.jumping2000)
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=jumping2000.jumping2000) ![](https://komarev.com/ghpvc/?username=jumping2000&style=flat-square)
 
 <!--
 **jumping2000/jumping2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
