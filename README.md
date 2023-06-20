@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/jumping2000/notifier/issues/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🎉 Merged PR [#57](https://github.com/jumping2000/notifier/pull/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🚀 Published release [Beta release with automatic configuration](https://github.com/Beta release with automatic configuration) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 🎉 Merged PR [#56](https://github.com/jumping2000/notifier/pull/56) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🗣 Commented on [#55](https://github.com/jumping2000/notifier/issues/55) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+1. 🎉 Merged PR [#58](https://github.com/jumping2000/notifier/pull/58) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 💪 Opened PR [#58](https://github.com/jumping2000/notifier/pull/58) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+3. 🗣 Commented on [#57](https://github.com/jumping2000/notifier/issues/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🎉 Merged PR [#57](https://github.com/jumping2000/notifier/pull/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+5. 🚀 Published release [Beta release with automatic configuration](https://github.com/Beta release with automatic configuration) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
