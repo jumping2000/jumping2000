@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-- 🔭 I’m currently working on:
-  -  DIY presence sensor based on LD2410C
-  -  YAML packages for Home Assistant
 <!--END_SECTION:activity-->
 
 ---
+
+- 🔭 I’m currently working on:
+  -  DIY presence sensor based on LD2410C
+  -  YAML packages for Home Assistant
 
 <br>
 
