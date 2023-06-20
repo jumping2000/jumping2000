@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📫 How to reach me: 
+- 🔭 I’m currently working on:
+  -  DIY presence sensor based on LD2410C
+  -  YAML packages for Home Assistant
+- 📫 How to reach me: 
 
 [![Websitebadge]][website] [![Forum][forumbadge]][forum] [![telegrambadge]][telegram] [![facebookbadge]][facebook] 
 
@@ -32,10 +34,6 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 ---
-
-- 🔭 I’m currently working on:
-  -  DIY presence sensor based on LD2410C
-  -  YAML packages for Home Assistant
 
 <br>
 
