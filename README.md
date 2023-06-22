@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/Elettrodomestici Smart 2023) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-2. 🎉 Merged PR [#58](https://github.com/jumping2000/notifier/pull/58) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 💪 Opened PR [#58](https://github.com/jumping2000/notifier/pull/58) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 🗣 Commented on [#57](https://github.com/jumping2000/notifier/issues/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🎉 Merged PR [#57](https://github.com/jumping2000/notifier/pull/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/Elettrodomestici Smart 2023) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🎉 Merged PR [#58](https://github.com/jumping2000/notifier/pull/58) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 💪 Opened PR [#58](https://github.com/jumping2000/notifier/pull/58) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+5. 🗣 Commented on [#57](https://github.com/jumping2000/notifier/issues/57) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
