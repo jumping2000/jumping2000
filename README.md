@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/Elettrodomestici Smart 2023) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-2. 🎉 Merged PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-3. 💪 Opened PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-4. 🎉 Merged PR [#5](https://github.com/jumping2000/ha-templates/pull/5) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-5. 💪 Opened PR [#5](https://github.com/jumping2000/ha-templates/pull/5) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+1. 🚀 Published release [Automatic Notifier Beta](https://github.com/Automatic Notifier Beta) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/Elettrodomestici Smart 2023) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🎉 Merged PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+4. 💪 Opened PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+5. 🎉 Merged PR [#5](https://github.com/jumping2000/ha-templates/pull/5) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
 <!--END_SECTION:activity-->
 
 ---
