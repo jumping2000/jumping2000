@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Automatic Notifier Beta](https://github.com/Automatic Notifier Beta) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+1. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
 2. 🚀 Published release [Automatic Notifier Beta](https://github.com/Automatic Notifier Beta) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/Elettrodomestici Smart 2023) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-4. 🎉 Merged PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-5. 💪 Opened PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+3. 🚀 Published release [Automatic Notifier Beta](https://github.com/Automatic Notifier Beta) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/Elettrodomestici Smart 2023) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+5. 🎉 Merged PR [#6](https://github.com/jumping2000/ha-templates/pull/6) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
 <!--END_SECTION:activity-->
 
 ---
