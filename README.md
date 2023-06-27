@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/jumping2000/notifier/issues/59) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🎉 Merged PR [#59](https://github.com/jumping2000/notifier/pull/59) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🚀 Published release [Automatic Notifier Beta](https://github.com/Automatic Notifier Beta) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
+1. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
+2. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
+3. 🗣 Commented on [#59](https://github.com/jumping2000/notifier/issues/59) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🎉 Merged PR [#59](https://github.com/jumping2000/notifier/pull/59) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 5. 🚀 Published release [Automatic Notifier Beta](https://github.com/Automatic Notifier Beta) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
