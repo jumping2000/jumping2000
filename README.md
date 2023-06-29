@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
 2. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
-3. 🎉 Merged PR [#9](https://github.com/jumping2000/ha-templates/pull/9) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-4. 💪 Opened PR [#9](https://github.com/jumping2000/ha-templates/pull/9) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-5. 🎉 Merged PR [#8](https://github.com/jumping2000/ha-templates/pull/8) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+3. 🗣 Commented on [#9](https://github.com/virtualdj/pun_sensor/issues/9) in [virtualdj/pun_sensor](https://github.com/virtualdj/pun_sensor)
+4. 🎉 Merged PR [#9](https://github.com/jumping2000/ha-templates/pull/9) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+5. 💪 Opened PR [#9](https://github.com/jumping2000/ha-templates/pull/9) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
 <!--END_SECTION:activity-->
 
 ---
