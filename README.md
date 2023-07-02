@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/jumping2000/notifier/pull/63) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 💪 Opened PR [#63](https://github.com/jumping2000/notifier/pull/63) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🎉 Merged PR [#62](https://github.com/jumping2000/notifier/pull/62) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 💪 Opened PR [#62](https://github.com/jumping2000/notifier/pull/62) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🎉 Merged PR [#10](https://github.com/jumping2000/ha-templates/pull/10) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+1. 🚀 Published release [Centro Notifiche 2023.7 - hassiohelp.eu ](https://github.com/Centro Notifiche 2023.7 - hassiohelp.eu ) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🎉 Merged PR [#63](https://github.com/jumping2000/notifier/pull/63) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+3. 💪 Opened PR [#63](https://github.com/jumping2000/notifier/pull/63) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🎉 Merged PR [#62](https://github.com/jumping2000/notifier/pull/62) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+5. 💪 Opened PR [#62](https://github.com/jumping2000/notifier/pull/62) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
