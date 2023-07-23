@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/jumping2000/ha-templates/pull/12) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-2. 💪 Opened PR [#12](https://github.com/jumping2000/ha-templates/pull/12) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-3. 🎉 Merged PR [#11](https://github.com/jumping2000/ha-templates/pull/11) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-4. 💪 Opened PR [#11](https://github.com/jumping2000/ha-templates/pull/11) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-5. 🚀 Published release [Centro Notifiche 2023.7 - hassiohelp.eu ](https://github.com/jumping2000/notifier/releases/tag/2023.7.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+1. 🔒 Closed issue [#2](https://github.com/jumping2000/ha-packages/issues/2) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+2. 🗣 Commented on [#2](https://github.com/jumping2000/ha-packages/issues/2#issuecomment-1646793450) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🎉 Merged PR [#12](https://github.com/jumping2000/ha-templates/pull/12) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+4. 💪 Opened PR [#12](https://github.com/jumping2000/ha-templates/pull/12) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+5. 🎉 Merged PR [#11](https://github.com/jumping2000/ha-templates/pull/11) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
 <!--END_SECTION:activity-->
 
 ---
