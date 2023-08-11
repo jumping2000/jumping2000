@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#64](https://github.com/jumping2000/notifier/issues/64) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🗣 Commented on [#64](https://github.com/jumping2000/notifier/issues/64#issuecomment-1650586194) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🔒 Closed issue [#2](https://github.com/jumping2000/ha-packages/issues/2) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-4. 🗣 Commented on [#2](https://github.com/jumping2000/ha-packages/issues/2#issuecomment-1646793450) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-5. 🎉 Merged PR [#12](https://github.com/jumping2000/ha-templates/pull/12) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+1. 🎉 Merged PR [#3](https://github.com/jumping2000/appdaemon-climate/pull/3) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
+2. 🎉 Merged PR [#2](https://github.com/jumping2000/appdaemon-climate/pull/2) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
+3. 🔒 Closed issue [#64](https://github.com/jumping2000/notifier/issues/64) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🗣 Commented on [#64](https://github.com/jumping2000/notifier/issues/64#issuecomment-1650586194) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+5. 🔒 Closed issue [#2](https://github.com/jumping2000/ha-packages/issues/2) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
