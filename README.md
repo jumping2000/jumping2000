@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jumping2000/appdaemon-climate/pull/4) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
-2. 🎉 Merged PR [#3](https://github.com/jumping2000/appdaemon-climate/pull/3) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
-3. 🎉 Merged PR [#2](https://github.com/jumping2000/appdaemon-climate/pull/2) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
-4. 🔒 Closed issue [#64](https://github.com/jumping2000/notifier/issues/64) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🗣 Commented on [#64](https://github.com/jumping2000/notifier/issues/64#issuecomment-1650586194) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+1. 🔒 Closed issue [#3](https://github.com/jumping2000/ha-packages/issues/3) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+2. 🗣 Commented on [#3](https://github.com/jumping2000/ha-packages/issues/3#issuecomment-1685030662) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🎉 Merged PR [#4](https://github.com/jumping2000/appdaemon-climate/pull/4) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
+4. 🎉 Merged PR [#3](https://github.com/jumping2000/appdaemon-climate/pull/3) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
+5. 🎉 Merged PR [#2](https://github.com/jumping2000/appdaemon-climate/pull/2) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
 <!--END_SECTION:activity-->
 
 ---
