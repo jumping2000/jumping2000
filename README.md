@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.1) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-2. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.0) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-3. 🔒 Closed issue [#3](https://github.com/jumping2000/ha-packages/issues/3) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-4. 🗣 Commented on [#3](https://github.com/jumping2000/ha-packages/issues/3#issuecomment-1685030662) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-5. 🎉 Merged PR [#4](https://github.com/jumping2000/appdaemon-climate/pull/4) in [jumping2000/appdaemon-climate](https://github.com/jumping2000/appdaemon-climate)
+1. ❗ Opened issue [#154](https://github.com/qemu-tools/qemu-docker/issues/154) in [qemu-tools/qemu-docker](https://github.com/qemu-tools/qemu-docker)
+2. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.1) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.0) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+4. 🔒 Closed issue [#3](https://github.com/jumping2000/ha-packages/issues/3) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+5. 🗣 Commented on [#3](https://github.com/jumping2000/ha-packages/issues/3#issuecomment-1685030662) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
