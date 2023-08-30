@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.2) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-2. 🗣 Commented on [#154](https://github.com/qemu-tools/qemu-docker/issues/154#issuecomment-1694387184) in [qemu-tools/qemu-docker](https://github.com/qemu-tools/qemu-docker)
-3. 🗣 Commented on [#154](https://github.com/qemu-tools/qemu-docker/issues/154#issuecomment-1694356976) in [qemu-tools/qemu-docker](https://github.com/qemu-tools/qemu-docker)
-4. ❗ Opened issue [#154](https://github.com/qemu-tools/qemu-docker/issues/154) in [qemu-tools/qemu-docker](https://github.com/qemu-tools/qemu-docker)
-5. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.1) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+1. 🔒 Closed issue [#4](https://github.com/jumping2000/ha-packages/issues/4) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+2. 🗣 Commented on [#4](https://github.com/jumping2000/ha-packages/issues/4#issuecomment-1698979871) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🗣 Commented on [#4](https://github.com/jumping2000/ha-packages/issues/4#issuecomment-1698979428) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+4. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.8.2) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+5. 🗣 Commented on [#154](https://github.com/qemu-tools/qemu-docker/issues/154#issuecomment-1694387184) in [qemu-tools/qemu-docker](https://github.com/qemu-tools/qemu-docker)
 <!--END_SECTION:activity-->
 
 ---
