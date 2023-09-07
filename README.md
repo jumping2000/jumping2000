@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 [![Websitebadge]][website] [![Forum][forumbadge]][forum] [![telegrambadge]][telegram] [![facebookbadge]][facebook] 
 
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -37,24 +35,28 @@ Here are some ideas to get you started:
 
 ## Main projects
 
-Centro notifiche
+<b>Centro notifiche</b>
 <br>
 <p align="left">
 <a href="https://github.com/jumping2000/notifier"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=notifier&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Appdaemon Notifier"></a>
 </p>
 
-Home Assistant Various
+<b>Home Assistant Packages & other</b>
 <p align="left">
 <a href="https://github.com/jumping2000/ha-packages"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=ha-packages&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HA Packages"></a>
 <a href="https://github.com/jumping2000/ha-templates"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=ha-templates&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HA Templates"></a>
 </p>
 
-<p align="center"> 
+## Repo Stats
+
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jumping2000&show_icons=true&theme=gotham"  alt="Gianpit" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jumping2000" alt="Gianpit" />
 </p>
 
 <br>
+
+---
 
 [![Websitebadge]][website] [![Forum][forumbadge]][forum] [![telegrambadge]][telegram] [![facebookbadge]][facebook] 
 
