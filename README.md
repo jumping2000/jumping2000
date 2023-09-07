@@ -35,10 +35,28 @@ Here are some ideas to get you started:
 
 ---
 
+## Main projects
+
+Centro notifiche
+<br>
+<p align="left">
+<a href="https://github.com/jumping2000/notifier"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=notifier&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Appdaemon Notifier"></a>
+</p>
+
+Home Assistant Various
+<p align="left">
+<a href="https://github.com/jumping2000/ha-packages"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=ha-packages&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HA Packages"></a>
+<a href="https://github.com/jumping2000/ha-templates"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=ha-templates&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HA Templates"></a>
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jumping2000&show_icons=true&theme=gotham"  alt="Gianpit" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jumping2000" alt="Gianpit" />
+</p>
+
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jumping2000&show_icons=true&theme=gotham" alt="Gianpit" />
-
+[![Websitebadge]][website] [![Forum][forumbadge]][forum] [![telegrambadge]][telegram] [![facebookbadge]][facebook] 
 
 <!-- ✨ _special_ ✨ -->
 [website]: https://hassiohelp.eu/
