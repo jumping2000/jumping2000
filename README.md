@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1762700647) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-2. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1761746349) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-3. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1761539325) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-4. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1761498071) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-5. 🗣 Commented on [#62](https://github.com/jumping2000/notifier/pull/62#issuecomment-1753836802) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.10.0) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+2. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1762700647) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1761746349) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+4. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1761539325) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+5. 🗣 Commented on [#6](https://github.com/jumping2000/ha-packages/issues/6#issuecomment-1761498071) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
