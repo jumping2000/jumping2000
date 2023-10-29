@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.10.7) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-2. 🔒 Closed issue [#13](https://github.com/jumping2000/ha-templates/issues/13) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-3. 🗣 Commented on [#13](https://github.com/jumping2000/ha-templates/issues/13#issuecomment-1779905488) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
-4. 🎉 Merged PR [#7](https://github.com/jumping2000/ha-packages/pull/7) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-5. 🗣 Commented on [#7](https://github.com/jumping2000/ha-packages/pull/7#issuecomment-1777660561) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+1. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.10.8) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+2. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.10.7) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+3. 🔒 Closed issue [#13](https://github.com/jumping2000/ha-templates/issues/13) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+4. 🗣 Commented on [#13](https://github.com/jumping2000/ha-templates/issues/13#issuecomment-1779905488) in [jumping2000/ha-templates](https://github.com/jumping2000/ha-templates)
+5. 🎉 Merged PR [#7](https://github.com/jumping2000/ha-packages/pull/7) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
 <!--END_SECTION:activity-->
 
 ---
