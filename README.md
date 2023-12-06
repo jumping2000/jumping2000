@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#66](https://github.com/jumping2000/notifier/issues/66) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.11.1) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-3. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.11.0) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
-4. 🗣 Commented on [#66](https://github.com/jumping2000/notifier/issues/66#issuecomment-1788975369) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🔒 Closed issue [#65](https://github.com/jumping2000/notifier/issues/65) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+1. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2023.12.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🔒 Closed issue [#66](https://github.com/jumping2000/notifier/issues/66) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+3. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.11.1) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+4. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.11.0) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+5. 🗣 Commented on [#66](https://github.com/jumping2000/notifier/issues/66#issuecomment-1788975369) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
