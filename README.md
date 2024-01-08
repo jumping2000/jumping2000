@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/jumping2000/notifier/issues/67#issuecomment-1880169766) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2024.1.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2023.12.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 🔒 Closed issue [#66](https://github.com/jumping2000/notifier/issues/66) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🚀 Published release [Elettrodomestici Smart 2023](https://github.com/jumping2000/ha-packages/releases/tag/2023.11.1) in [jumping2000/ha-packages](https://github.com/jumping2000/ha-packages)
+1. 🔒 Closed issue [#67](https://github.com/jumping2000/notifier/issues/67) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+2. 🗣 Commented on [#67](https://github.com/jumping2000/notifier/issues/67#issuecomment-1880169766) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+3. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2024.1.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+4. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2023.12.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
+5. 🔒 Closed issue [#66](https://github.com/jumping2000/notifier/issues/66) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
