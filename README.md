@@ -36,24 +36,22 @@ Here are some ideas to get you started:
 
 ## Main projects
 
-<b<Universal Notifier</b>
+<b>Universal Notifier</b>
 <br>
 <p align="left">
 <a href="https://github.com/jumping2000/universal_notifier"><img width="400" src="https://github-stats-badge.vercel.app/github/contrib/jumping2000/github-repo-stats?style=for-the-badge&color=3ddc97" alt="Universal Notifier"></a>
+<a href="https://github.com/jumping2000/universal_notifier"><img width="400" src="https://github-stats-badge.vercel.app/github/commit/jumping2000/github-repo-stats?style=for-the-badge&color=3ddc97" alt="Universal Notifier"></a>
 </p>
-
-[![Jumping GitHub stats](https://github-readme-stats.vercel.app/api?username=jumping2000)](https://github.com/jumping2000/Universal Notifier)
 
 <b>Centro notifiche</b>
 <br>
 <p align="left">
-<a href="https://github.com/jumping2000/notifier"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=notifier&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Appdaemon Notifier"></a>
+<a href="https://github.com/jumping2000/notifier">Appdaemon Notifier</a>
 </p>
 
 <b>Home Assistant Packages & other</b>
 <p align="left">
-<a href="https://github.com/jumping2000/ha-packages"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=ha-packages&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HA Packages"></a>
-<a href="https://github.com/jumping2000/ha-templates"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=jumping2000&repo=ha-templates&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HA Templates"></a>
+<a href="https://github.com/jumping2000/ha-packages">HOme Assistant Packages</a>
 </p>
 
 ## Repo Stats
