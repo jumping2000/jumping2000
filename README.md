@@ -36,6 +36,14 @@ Here are some ideas to get you started:
 
 ## Main projects
 
+<b<Universal Notifier</b>
+<br>
+<p align="left">
+<a href="https://github.com/jumping2000/universal_notifier"><img width="400" src="https://github-stats-badge.vercel.app/github/contrib/jumping2000/github-repo-stats?style=for-the-badge&color=3ddc97" alt="Universal Notifier"></a>
+</p>
+
+[![Jumping GitHub stats](https://github-readme-stats.vercel.app/api?username=jumping2000)](https://github.com/jumping2000/Universal Notifier)
+
 <b>Centro notifiche</b>
 <br>
 <p align="left">
