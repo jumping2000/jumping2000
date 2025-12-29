@@ -25,34 +25,15 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#67](https://github.com/jumping2000/notifier/issues/67) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-2. 🗣 Commented on [#67](https://github.com/jumping2000/notifier/issues/67#issuecomment-1880169766) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-3. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2024.1.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-4. 🚀 Published release [Minor Fix](https://github.com/jumping2000/notifier/releases/tag/2023.12.0) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
-5. 🔒 Closed issue [#66](https://github.com/jumping2000/notifier/issues/66) in [jumping2000/notifier](https://github.com/jumping2000/notifier)
 <!--END_SECTION:activity-->
 
 ---
 
 ## Main projects
 
-<b>Universal Notifier</b>
-<br>
-<p align="left">
-<a href="https://github.com/jumping2000/universal_notifier"><img width="400" src="https://github-stats-badge.vercel.app/github/contrib/jumping2000/github-repo-stats?style=for-the-badge&color=3ddc97" alt="Universal Notifier"></a>
-<a href="https://github.com/jumping2000/universal_notifier"><img width="400" src="https://github-stats-badge.vercel.app/github/commit/jumping2000/github-repo-stats?style=for-the-badge&color=3ddc97" alt="Universal Notifier"></a>
-</p>
-
-<b>Centro notifiche</b>
-<br>
-<p align="left">
-<a href="https://github.com/jumping2000/notifier">Appdaemon Notifier</a>
-</p>
-
-<b>Home Assistant Packages & other</b>
-<p align="left">
-<a href="https://github.com/jumping2000/ha-packages">HOme Assistant Packages</a>
-</p>
+- <b>Universal Notifier</b> - <a href="https://github.com/jumping2000/universal_notifier">Universal Notifier</a>
+- <b>Centro notifiche</b> - <a href="https://github.com/jumping2000/notifier">Appdaemon Notifier</a>
+- <b>Home Assistant Packages & other</b> - <a href="https://github.com/jumping2000/ha-packages">Home Assistant Packages</a>
 
 ## Repo Stats
 
