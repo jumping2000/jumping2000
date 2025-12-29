@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on:
+  -  New custom components for Home Assistant: **Universal Notifier**
   -  DIY presence sensor based on LD2410C
   -  YAML packages for Home Assistant
 - 📫 How to reach me: 
