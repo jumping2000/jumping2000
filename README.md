@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 2. 🚀 Published release [v0.2.1 - today version with some minor corrections](https://github.com/jumping2000/universal_notifier/releases/tag/v0.2.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 3. 🚀 Published release [v0.2 - some improvments](https://github.com/jumping2000/universal_notifier/releases/tag/v0.2.0) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 4. 🚀 Published release [Just some corrections - December 2025](https://github.com/jumping2000/universal_notifier/releases/tag/v0.1.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 💪 Opened PR [#8832](undefined) in [home-assistant/brands](https://github.com/home-assistant/brands)
+5. 💪 Opened PR [#8832](https://github.com/home-assistant/brands/pull/8832) in [home-assistant/brands](https://github.com/home-assistant/brands)
 <!--END_SECTION:activity-->
 
 ---
