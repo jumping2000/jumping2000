@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/jumping2000/universal_notifier/issues/3#issuecomment-3733752997) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🚀 Published release [bug fix ](https://github.com/jumping2000/universal_notifier/releases/tag/v0.3.2) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🗣 Commented on [#3](https://github.com/jumping2000/universal_notifier/issues/3#issuecomment-3732487641) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🗣 Commented on [#3](https://github.com/jumping2000/universal_notifier/issues/3#issuecomment-3732480700) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 💪 Opened PR [#5050](https://github.com/hacs/default/pull/5050) in [hacs/default](https://github.com/hacs/default)
+1. 🔒 Closed issue [#3](https://github.com/jumping2000/universal_notifier/issues/3) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#3](https://github.com/jumping2000/universal_notifier/issues/3#issuecomment-3733752997) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🚀 Published release [bug fix ](https://github.com/jumping2000/universal_notifier/releases/tag/v0.3.2) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🗣 Commented on [#3](https://github.com/jumping2000/universal_notifier/issues/3#issuecomment-3732487641) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🗣 Commented on [#3](https://github.com/jumping2000/universal_notifier/issues/3#issuecomment-3732480700) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
