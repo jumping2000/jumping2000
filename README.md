@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/jumping2000/universal_notifier/pull/6#issuecomment-3763001343) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🎉 Merged PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 💪 Opened PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🎉 Merged PR [#5050](https://github.com/hacs/default/pull/5050) in [hacs/default](https://github.com/hacs/default)
-5. 🚀 Published release [Added a true queue for voice notifications](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.0-alpha) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🚀 Published release [Added queue for voice notification](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#6](https://github.com/jumping2000/universal_notifier/pull/6#issuecomment-3763001343) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🎉 Merged PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 💪 Opened PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🎉 Merged PR [#5050](https://github.com/hacs/default/pull/5050) in [hacs/default](https://github.com/hacs/default)
 <!--END_SECTION:activity-->
 
 ---
