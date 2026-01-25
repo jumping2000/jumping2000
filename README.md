@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [New improvment: resume streaming on GH/NEst](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.3-alpha) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🚀 Published release [Added queue for voice notification](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🗣 Commented on [#6](https://github.com/jumping2000/universal_notifier/pull/6#issuecomment-3763001343) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🎉 Merged PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 💪 Opened PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. ❗ Opened issue [#778](https://github.com/bbernhard/signal-cli-rest-api/issues/778) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
+2. 🚀 Published release [New improvment: resume streaming on GH/NEst](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.3-alpha) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🚀 Published release [Added queue for voice notification](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🗣 Commented on [#6](https://github.com/jumping2000/universal_notifier/pull/6#issuecomment-3763001343) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🎉 Merged PR [#6](https://github.com/jumping2000/universal_notifier/pull/6) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
