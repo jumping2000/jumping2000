@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Improvments in voice assistant](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.4) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🎉 Merged PR [#8](https://github.com/jumping2000/universal_notifier/pull/8) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 💪 Opened PR [#8](https://github.com/jumping2000/universal_notifier/pull/8) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. ❗ Opened issue [#778](https://github.com/bbernhard/signal-cli-rest-api/issues/778) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
-5. 🚀 Published release [New improvment: resume streaming on GH/NEst](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.3-alpha) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🗣 Commented on [#778](https://github.com/bbernhard/signal-cli-rest-api/issues/778#issuecomment-3813422936) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
+2. 🚀 Published release [Improvments in voice assistant](https://github.com/jumping2000/universal_notifier/releases/tag/v0.4.4) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🎉 Merged PR [#8](https://github.com/jumping2000/universal_notifier/pull/8) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 💪 Opened PR [#8](https://github.com/jumping2000/universal_notifier/pull/8) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. ❗ Opened issue [#778](https://github.com/bbernhard/signal-cli-rest-api/issues/778) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
 <!--END_SECTION:activity-->
 
 ---
