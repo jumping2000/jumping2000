@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/jumping2000/universal_notifier/issues/12#issuecomment-4017475735) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🔒 Closed issue [#10](https://github.com/jumping2000/universal_notifier/issues/10) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🗣 Commented on [#10](https://github.com/jumping2000/universal_notifier/issues/10#issuecomment-3894269327) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🗣 Commented on [#778](https://github.com/bbernhard/signal-cli-rest-api/issues/778#issuecomment-3819073904) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
+1. 🚀 Published release [Universal Notifier - Now with UI configuration](https://github.com/jumping2000/universal_notifier/releases/tag/v0.6.0) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#12](https://github.com/jumping2000/universal_notifier/issues/12#issuecomment-4017475735) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🔒 Closed issue [#10](https://github.com/jumping2000/universal_notifier/issues/10) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🗣 Commented on [#10](https://github.com/jumping2000/universal_notifier/issues/10#issuecomment-3894269327) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 5. 🗣 Commented on [#778](https://github.com/bbernhard/signal-cli-rest-api/issues/778#issuecomment-3813422936) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
 <!--END_SECTION:activity-->
 
