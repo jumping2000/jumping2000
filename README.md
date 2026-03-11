@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/jumping2000/universal_notifier/issues/12) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🚀 Published release [Now with UI configuration](https://github.com/jumping2000/universal_notifier/releases/tag/v0.7.0) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🚀 Published release [UI configuration](https://github.com/jumping2000/universal_notifier/releases/tag/v0.6.2) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🗣 Commented on [#12](https://github.com/jumping2000/universal_notifier/issues/12#issuecomment-4019768926) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🚀 Published release [Configuration via UI](https://github.com/jumping2000/universal_notifier/releases/tag/v0.6.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4042681400) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🔒 Closed issue [#12](https://github.com/jumping2000/universal_notifier/issues/12) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🚀 Published release [Now with UI configuration](https://github.com/jumping2000/universal_notifier/releases/tag/v0.7.0) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🚀 Published release [UI configuration](https://github.com/jumping2000/universal_notifier/releases/tag/v0.6.2) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🗣 Commented on [#12](https://github.com/jumping2000/universal_notifier/issues/12#issuecomment-4019768926) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
