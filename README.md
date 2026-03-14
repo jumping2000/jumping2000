@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4046022403) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🎉 Merged PR [#16](https://github.com/jumping2000/universal_notifier/pull/16) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 💪 Opened PR [#16](https://github.com/jumping2000/universal_notifier/pull/16) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4042681400) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🔒 Closed issue [#12](https://github.com/jumping2000/universal_notifier/issues/12) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🔒 Closed issue [#14](https://github.com/jumping2000/universal_notifier/issues/14) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4046022403) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🎉 Merged PR [#16](https://github.com/jumping2000/universal_notifier/pull/16) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 💪 Opened PR [#16](https://github.com/jumping2000/universal_notifier/pull/16) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4042681400) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
