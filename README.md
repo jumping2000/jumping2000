@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [UI configuration: Edit Channels](https://github.com/jumping2000/universal_notifier/releases/tag/v0.7.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🗣 Commented on [#2235](https://github.com/HKUDS/nanobot/issues/2235#issuecomment-4092455594) in [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+1. 🚀 Published release [DEV EN-IT release](https://github.com/jumping2000/llmbase/releases/tag/v0.8.1) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+2. 🚀 Published release [UI configuration: Edit Channels](https://github.com/jumping2000/universal_notifier/releases/tag/v0.7.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 3. 🔒 Closed issue [#14](https://github.com/jumping2000/universal_notifier/issues/14) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 4. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4046022403) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 5. 🎉 Merged PR [#16](https://github.com/jumping2000/universal_notifier/pull/16) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
