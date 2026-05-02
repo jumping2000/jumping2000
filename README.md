@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test CI/CD](https://github.com/jumping2000/llmbase/releases/tag/v0.8.1) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-2. 🚀 Published release [UI configuration: Edit Channels](https://github.com/jumping2000/universal_notifier/releases/tag/v0.7.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🚀 Published release [NGINX frontend with authentication](https://github.com/jumping2000/llmbase/releases/tag/v0.8.2) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+2. 🚀 Published release [test CI/CD](https://github.com/jumping2000/llmbase/releases/tag/v0.8.1) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
 3. 🚀 Published release [UI configuration: Edit Channels](https://github.com/jumping2000/universal_notifier/releases/tag/v0.7.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 4. 🗣 Commented on [#14](https://github.com/jumping2000/universal_notifier/issues/14#issuecomment-4046022403) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 5. 🎉 Merged PR [#16](https://github.com/jumping2000/universal_notifier/pull/16) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
