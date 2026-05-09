@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix compiling activity](https://github.com/jumping2000/llmbase/releases/tag/v0.8.6) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-2. 🚀 Published release [Update release_ci-cd.yml](https://github.com/jumping2000/llmbase/releases/tag/v0.8.5) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-3. 🚀 Published release [minor fix](https://github.com/jumping2000/llmbase/releases/tag/v0.8.4) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-4. 🚀 Published release [Implement worker sources and seed URL learning with frontend improvments](https://github.com/jumping2000/llmbase/releases/tag/v0.8.3) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-5. 🚀 Published release [NGINX frontend with authentication](https://github.com/jumping2000/llmbase/releases/tag/v0.8.2) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+1. 🚀 Published release [Added llm used tokens to compile and lint features](https://github.com/jumping2000/llmbase/releases/tag/v0.8.7) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+2. 🚀 Published release [Added UI for compiling snippet, fixed compiling activity](https://github.com/jumping2000/llmbase/releases/tag/v0.8.6) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+3. 🚀 Published release [Update release_ci-cd.yml](https://github.com/jumping2000/llmbase/releases/tag/v0.8.5) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+4. 🚀 Published release [minor fix](https://github.com/jumping2000/llmbase/releases/tag/v0.8.4) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+5. 🚀 Published release [Implement worker sources and seed URL learning with frontend improvments](https://github.com/jumping2000/llmbase/releases/tag/v0.8.3) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
 <!--END_SECTION:activity-->
 
 ---
