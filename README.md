@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/jumping2000/universal_notifier/issues/20#issuecomment-4552737562) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4552702759) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🎉 Merged PR [#1](https://github.com/jumping2000/ai-document/pull/1) in [jumping2000/ai-document](https://github.com/jumping2000/ai-document)
-4. 💪 Opened PR [#1](https://github.com/jumping2000/ai-document/pull/1) in [jumping2000/ai-document](https://github.com/jumping2000/ai-document)
-5. 🚀 Published release [Added llm used tokens to compile and lint features](https://github.com/jumping2000/llmbase/releases/tag/v0.8.7) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+1. ℹ️ Assigned issue [#22](https://github.com/jumping2000/universal_notifier/issues/22) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#20](https://github.com/jumping2000/universal_notifier/issues/20#issuecomment-4552737562) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4552702759) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🎉 Merged PR [#1](https://github.com/jumping2000/ai-document/pull/1) in [jumping2000/ai-document](https://github.com/jumping2000/ai-document)
+5. 💪 Opened PR [#1](https://github.com/jumping2000/ai-document/pull/1) in [jumping2000/ai-document](https://github.com/jumping2000/ai-document)
 <!--END_SECTION:activity-->
 
 ---
