@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [added MCP streamable-http](https://github.com/jumping2000/llmbase/releases/tag/v0.8.9) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-2. 🚀 Published release [docker: mount config as read-only runtime file](https://github.com/jumping2000/llmbase/releases/tag/v0.8.8) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-3. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4557085278) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. ℹ️ Assigned issue [#22](https://github.com/jumping2000/universal_notifier/issues/22) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🗣 Commented on [#20](https://github.com/jumping2000/universal_notifier/issues/20#issuecomment-4552737562) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4642798752) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🚀 Published release [added MCP streamable-http](https://github.com/jumping2000/llmbase/releases/tag/v0.8.9) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+3. 🚀 Published release [docker: mount config as read-only runtime file](https://github.com/jumping2000/llmbase/releases/tag/v0.8.8) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+4. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4557085278) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. ℹ️ Assigned issue [#22](https://github.com/jumping2000/universal_notifier/issues/22) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
