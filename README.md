@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fixes in v0.8 version](https://github.com/jumping2000/universal_notifier/releases/tag/v0.8.1) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🚀 Published release [New version, lot of improvments and fixes](https://github.com/jumping2000/universal_notifier/releases/tag/v0.8.0) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4642798752) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🚀 Published release [added MCP streamable-http](https://github.com/jumping2000/llmbase/releases/tag/v0.8.9) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-5. 🚀 Published release [docker: mount config as read-only runtime file](https://github.com/jumping2000/llmbase/releases/tag/v0.8.8) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+1. 🗣 Commented on [#20](https://github.com/jumping2000/universal_notifier/issues/20#issuecomment-4703320350) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🔒 Closed issue [#20](https://github.com/jumping2000/universal_notifier/issues/20) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🗣 Commented on [#21](https://github.com/jumping2000/universal_notifier/pull/21#issuecomment-4703317992) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. ❌ Closed PR [#21](https://github.com/jumping2000/universal_notifier/pull/21) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4703314870) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
