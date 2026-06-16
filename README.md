@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/jumping2000/universal_notifier/issues/20#issuecomment-4703320350) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🔒 Closed issue [#20](https://github.com/jumping2000/universal_notifier/issues/20) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🗣 Commented on [#21](https://github.com/jumping2000/universal_notifier/pull/21#issuecomment-4703317992) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. ❌ Closed PR [#21](https://github.com/jumping2000/universal_notifier/pull/21) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4703314870) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. ℹ️ Assigned issue [#23](https://github.com/jumping2000/universal_notifier/issues/23) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. ℹ️ Assigned issue [#23](https://github.com/jumping2000/universal_notifier/issues/23) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🗣 Commented on [#20](https://github.com/jumping2000/universal_notifier/issues/20#issuecomment-4703320350) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🔒 Closed issue [#20](https://github.com/jumping2000/universal_notifier/issues/20) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🗣 Commented on [#21](https://github.com/jumping2000/universal_notifier/pull/21#issuecomment-4703317992) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
