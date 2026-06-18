@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Other fixes in prerelease 0.8.x - Ready for production](https://github.com/jumping2000/universal_notifier/releases/tag/v0.8.2) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🗣 Commented on [#26](https://github.com/jumping2000/universal_notifier/issues/26#issuecomment-4730157671) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🗣 Commented on [#27](https://github.com/jumping2000/universal_notifier/issues/27#issuecomment-4729240283) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🗣 Commented on [#22](https://github.com/jumping2000/universal_notifier/issues/22#issuecomment-4729214290) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🗣 Commented on [#26](https://github.com/jumping2000/universal_notifier/issues/26#issuecomment-4729122527) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🔒 Closed issue [#27](https://github.com/jumping2000/universal_notifier/issues/27) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#27](https://github.com/jumping2000/universal_notifier/issues/27#issuecomment-4736373983) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🔒 Closed issue [#26](https://github.com/jumping2000/universal_notifier/issues/26) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🗣 Commented on [#26](https://github.com/jumping2000/universal_notifier/issues/26#issuecomment-4736372077) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🔒 Closed issue [#22](https://github.com/jumping2000/universal_notifier/issues/22) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
