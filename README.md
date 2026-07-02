@@ -40,13 +40,6 @@ Here are some ideas to get you started:
 - <b>Centro notifiche</b> - <a href="https://github.com/jumping2000/notifier">Appdaemon Notifier</a>
 - <b>Home Assistant Packages & other</b> - <a href="https://github.com/jumping2000/ha-packages">Home Assistant Packages</a>
 
-## Repo Stats
-
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jumping2000&show_icons=true&theme=gotham"  alt="Gianpit" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jumping2000" alt="Gianpit" />
-</p>
-
 <br>
 
 ---
