@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.8.4 pre-production release](https://github.com/jumping2000/universal_notifier/releases/tag/v0.8.4) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-2. 🗣 Commented on [#36](https://github.com/jumping2000/universal_notifier/pull/36#issuecomment-5541204959) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-3. 🚀 Published release [0.9.2 version added doc_date support for ingested document](https://github.com/jumping2000/llmbase/releases/tag/v0.9.2) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-4. 🚀 Published release [September 2026  fix](https://github.com/jumping2000/llmbase/releases/tag/v0.9.0) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-5. 🔒 Closed issue [#32](https://github.com/jumping2000/universal_notifier/issues/32) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🗣 Commented on [#38](https://github.com/jumping2000/universal_notifier/pull/38#issuecomment-5560771065) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+2. 🗣 Commented on [#37](https://github.com/jumping2000/universal_notifier/issues/37#issuecomment-5560749867) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+3. 🔒 Closed issue [#37](https://github.com/jumping2000/universal_notifier/issues/37) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+4. 🗣 Commented on [#33](https://github.com/jumping2000/universal_notifier/issues/33#issuecomment-5560748349) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🔒 Closed issue [#33](https://github.com/jumping2000/universal_notifier/issues/33) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
