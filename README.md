@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.9.6 Documentation audited against the code](https://github.com/jumping2000/llmbase/releases/tag/v0.9.6) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-2. 🚀 Published release [v0.9.5 cumulative release](https://github.com/jumping2000/llmbase/releases/tag/v0.9.5) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-3. 🗣 Commented on [#38](https://github.com/jumping2000/universal_notifier/pull/38#issuecomment-5560771065) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-4. 🗣 Commented on [#37](https://github.com/jumping2000/universal_notifier/issues/37#issuecomment-5560749867) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🔒 Closed issue [#37](https://github.com/jumping2000/universal_notifier/issues/37) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🚀 Published release [v0.9.8 Test suite runs on Windows](https://github.com/jumping2000/llmbase/releases/tag/v0.9.8) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+2. 🚀 Published release [v0.9.6 Documentation audited against the code](https://github.com/jumping2000/llmbase/releases/tag/v0.9.6) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+3. 🚀 Published release [v0.9.5 cumulative release](https://github.com/jumping2000/llmbase/releases/tag/v0.9.5) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
+4. 🗣 Commented on [#38](https://github.com/jumping2000/universal_notifier/pull/38#issuecomment-5560771065) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+5. 🗣 Commented on [#37](https://github.com/jumping2000/universal_notifier/issues/37#issuecomment-5560749867) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
 <!--END_SECTION:activity-->
 
 ---
