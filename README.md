@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jumping2000/picobot/pull/1) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-2. 🚀 Published release [v0.9.6 Documentation audited against the code](https://github.com/jumping2000/llmbase/releases/tag/v0.9.6) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-3. 🚀 Published release [v0.9.5 cumulative release](https://github.com/jumping2000/llmbase/releases/tag/v0.9.5) in [jumping2000/llmbase](https://github.com/jumping2000/llmbase)
-4. 🗣 Commented on [#38](https://github.com/jumping2000/universal_notifier/pull/38#issuecomment-5560771065) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
-5. 🗣 Commented on [#37](https://github.com/jumping2000/universal_notifier/issues/37#issuecomment-5560749867) in [jumping2000/universal_notifier](https://github.com/jumping2000/universal_notifier)
+1. 🚀 Published release [Picobot [0.7.0] - 2026-10-25](https://github.com/jumping2000/picobot/releases/tag/v0.7.0) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+2. 🎉 Merged PR [#3](https://github.com/jumping2000/picobot/pull/3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+3. 💪 Opened PR [#3](https://github.com/jumping2000/picobot/pull/3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+4. ❌ Closed PR [#2](https://github.com/jumping2000/picobot/pull/2) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+5. 💪 Opened PR [#2](https://github.com/jumping2000/picobot/pull/2) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
 <!--END_SECTION:activity-->
 
 ---
