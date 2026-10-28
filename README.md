@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.1 - Scheduled tasks in plain words](https://github.com/jumping2000/picobot/releases/tag/v0.7.1) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-2. 🎉 Merged PR [#4](https://github.com/jumping2000/picobot/pull/4) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-3. 💪 Opened PR [#4](https://github.com/jumping2000/picobot/pull/4) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-4. 🚀 Published release [Picobot [0.7.0] - 2026-10-25](https://github.com/jumping2000/picobot/releases/tag/v0.7.0) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-5. 🎉 Merged PR [#3](https://github.com/jumping2000/picobot/pull/3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+1. 🚀 Published release [SDD Playbook 0.16.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.16.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
+2. 🚀 Published release [v0.7.1 - Scheduled tasks in plain words](https://github.com/jumping2000/picobot/releases/tag/v0.7.1) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+3. 🎉 Merged PR [#4](https://github.com/jumping2000/picobot/pull/4) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+4. 💪 Opened PR [#4](https://github.com/jumping2000/picobot/pull/4) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+5. 🚀 Published release [Picobot [0.7.0] - 2026-10-25](https://github.com/jumping2000/picobot/releases/tag/v0.7.0) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
 <!--END_SECTION:activity-->
 
 ---
