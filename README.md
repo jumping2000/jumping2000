@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [[0.7.2] Web search improved](https://github.com/jumping2000/picobot/releases/tag/v0.7.2) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-2. 🚀 Published release [SDD Playbook 0.13.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.13.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
-3. 🚀 Published release [SDD Playbook 0.14.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.14.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
-4. 🚀 Published release [SDD Playbook - 0.15.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.15.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
-5. 🚀 Published release [SDD Playbook 0.16.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.16.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
+1. 💪 Opened PR [#5](https://github.com/jumping2000/picobot/pull/5) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+2. 🚀 Published release [[0.7.2] Web search improved](https://github.com/jumping2000/picobot/releases/tag/v0.7.2) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+3. 🚀 Published release [SDD Playbook 0.13.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.13.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
+4. 🚀 Published release [SDD Playbook 0.14.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.14.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
+5. 🚀 Published release [SDD Playbook - 0.15.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.15.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
 <!--END_SECTION:activity-->
 
 ---
