@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/jumping2000/picobot/pull/6) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-2. 🎉 Merged PR [#7](https://github.com/jumping2000/picobot/pull/7) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-3. 💪 Opened PR [#7](https://github.com/jumping2000/picobot/pull/7) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-4. 💪 Opened PR [#6](https://github.com/jumping2000/picobot/pull/6) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-5. 🚀 Published release [v0.8.0 - Skills and settings improvments](https://github.com/jumping2000/picobot/releases/tag/v0.8.0) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+1. 🚀 Published release [v0.8.1 - Improvment in Telegram answers](https://github.com/jumping2000/picobot/releases/tag/v0.8.1) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+2. 🎉 Merged PR [#8](https://github.com/jumping2000/picobot/pull/8) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+3. 💪 Opened PR [#8](https://github.com/jumping2000/picobot/pull/8) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+4. 🎉 Merged PR [#6](https://github.com/jumping2000/picobot/pull/6) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+5. 🎉 Merged PR [#7](https://github.com/jumping2000/picobot/pull/7) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
 <!--END_SECTION:activity-->
 
 ---
