@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.7.3 - agents now know today's date and time](https://github.com/jumping2000/picobot/releases/tag/v0.7.3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-2. 🎉 Merged PR [#5](https://github.com/jumping2000/picobot/pull/5) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-3. 💪 Opened PR [#5](https://github.com/jumping2000/picobot/pull/5) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-4. 🚀 Published release [[0.7.2] Web search improved](https://github.com/jumping2000/picobot/releases/tag/v0.7.2) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-5. 🚀 Published release [SDD Playbook 0.13.0](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.13.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
+1. 🚀 Published release [v0.8.0 - Skills and settings improvments](https://github.com/jumping2000/picobot/releases/tag/v0.8.0) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+2. 🚀 Published release [0.7.3 - agents now know today's date and time](https://github.com/jumping2000/picobot/releases/tag/v0.7.3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+3. 🎉 Merged PR [#5](https://github.com/jumping2000/picobot/pull/5) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+4. 💪 Opened PR [#5](https://github.com/jumping2000/picobot/pull/5) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+5. 🚀 Published release [[0.7.2] Web search improved](https://github.com/jumping2000/picobot/releases/tag/v0.7.2) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
 <!--END_SECTION:activity-->
 
 ---
