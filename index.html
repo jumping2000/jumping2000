@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050907">
+  <meta name="description" content="Portfolio open source di Gianpiero (jumping2000): agenti AI, developer tools e automazione Home Assistant.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="jumping2000 — Open Source Portfolio">
+  <meta property="og:description" content="Agenti AI, strumenti per sviluppatori e automazione smart home.">
+  <meta property="og:url" content="https://jumping2000.github.io/">
+  <title>jumping2000 // Open Source Portfolio</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Salta al contenuto</a>
+  <canvas id="matrix-rain" aria-hidden="true"></canvas>
+  <div class="noise" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="jumping2000, torna all'inizio">
+      <span class="brand-mark">J<span>_</span></span>
+      <span class="brand-name">JUMPING<span>2000</span></span>
+    </a>
+    <nav class="main-nav" aria-label="Navigazione principale">
+      <a href="#projects">Progetti<span>_01</span></a>
+      <a href="#about">Profilo<span>_02</span></a>
+      <a class="nav-github" href="https://github.com/jumping2000" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero section-shell" id="top">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="pulse-dot"></span> OPEN SOURCE PORTFOLIO <span class="eyebrow-year">// 2026</span></div>
+        <h1>Costruisco<br>strumenti per un<br><span>mondo più smart.</span></h1>
+        <p class="hero-intro">Sono Gianpiero, <strong>Telco Engineer</strong>. Progetto strumenti open source tra agenti AI, automazione e sistemi smart home: idee concrete, codice riutilizzabile, attenzione alla sostanza.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#projects">Esplora i progetti <span aria-hidden="true">↓</span></a>
+          <a class="button button-ghost" href="https://github.com/jumping2000" target="_blank" rel="noopener noreferrer">Profilo GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="hero-footnote"><span class="prompt-symbol">&gt;_</span> SELECTED WORK / PUBLIC REPOSITORIES</div>
+      </div>
+
+      <aside class="terminal-card" aria-label="Terminale decorativo con profilo tecnico">
+        <div class="terminal-topbar">
+          <div class="terminal-lights" aria-hidden="true"><i></i><i></i><i></i></div>
+          <span>profile.sh</span>
+          <span class="terminal-lock">● ONLINE</span>
+        </div>
+        <div class="terminal-content">
+          <p class="terminal-line"><span class="terminal-prompt">guest@jumping2000:~$</span> whoami</p>
+          <p class="terminal-output">Gianpiero <span>// Telco Engineer</span></p>
+          <p class="terminal-line"><span class="terminal-prompt">guest@jumping2000:~$</span> cat interests.txt</p>
+          <ul class="terminal-list">
+            <li><b>01</b> Agentic AI &amp; LLM systems</li>
+            <li><b>02</b> Software engineering tools</li>
+            <li><b>03</b> Home Assistant &amp; automation</li>
+          </ul>
+          <p class="terminal-line terminal-last"><span class="terminal-prompt">guest@jumping2000:~$</span> <span class="cursor">▋</span></p>
+        </div>
+        <div class="terminal-bottom"><span>SYS.STATUS</span><span>ALL SYSTEMS NOMINAL</span></div>
+      </aside>
+      <div class="hero-index" aria-hidden="true">01<br><span>—</span><br>05</div>
+    </section>
+
+    <section class="stats-strip" aria-label="Statistiche GitHub">
+      <div class="stats-inner">
+        <div class="stat"><span class="stat-value" id="repo-count">70</span><span class="stat-label">REPOSITORY PUBBLICI</span></div>
+        <div class="stat"><span class="stat-value">∞</span><span class="stat-label">IDEE IN LAVORAZIONE</span></div>
+        <div class="stat"><span class="stat-value">OSS</span><span class="stat-label">BUILD IN PUBLIC</span></div>
+        <div class="stats-note"><span class="pulse-dot"></span> DATI PROFILO <span id="stats-status">IN ATTESA</span></div>
+      </div>
+    </section>
+
+    <section class="projects section-shell" id="projects">
+      <div class="section-heading">
+        <div>
+          <div class="eyebrow"><span class="section-number">01 /</span> SELECTED REPOSITORIES</div>
+          <h2>Progetti <span>in evidenza.</span></h2>
+          <p class="section-description">Una selezione di repository pubblici, scelti per utilità, contenuto tecnico e direzione progettuale.</p>
+        </div>
+        <a class="text-link all-repos-link" href="https://github.com/jumping2000?tab=repositories" target="_blank" rel="noopener noreferrer">Tutti i repository <span aria-hidden="true">↗</span></a>
+      </div>
+
+      <div class="filter-bar" role="group" aria-label="Filtra i progetti">
+        <button class="filter-button is-active" type="button" data-filter="all" aria-pressed="true">Tutti <span>05</span></button>
+        <button class="filter-button" type="button" data-filter="ai" aria-pressed="false">AI &amp; Developer Tools <span>02</span></button>
+        <button class="filter-button" type="button" data-filter="smart-home" aria-pressed="false">Smart Home <span>03</span></button>
+      </div>
+
+      <div class="project-grid" id="project-grid">
+        <article class="project-card project-featured" data-category="ai">
+          <div class="card-topline"><span class="card-index">01 / AGENTIC DEVELOPMENT</span><span class="card-status status-active">● IN EVOLUZIONE</span></div>
+          <div class="project-symbol symbol-sdd" aria-hidden="true"><span>SPEC</span><i>→</i><span>CODE</span></div>
+          <h3>SDD Playbook</h3>
+          <p class="project-subtitle">Spec-driven development, con controlli verificabili.</p>
+          <p class="project-description">Un workflow per Claude Code, Codex e GitHub Copilot che accompagna il ciclo di sviluppo: specifiche, pianificazione, test, implementazione e review, con approvazioni umane e verifiche deterministiche.</p>
+          <div class="tag-list"><span>Claude Code</span><span>Codex</span><span>Copilot</span><span>Agent Skills</span></div>
+          <div class="card-footer"><span class="repo-license">MIT · v0.20.0</span><a class="repo-link" href="https://github.com/jumping2000/sdd-playbook" target="_blank" rel="noopener noreferrer">Apri repository <span aria-hidden="true">↗</span></a></div>
+        </article>
+
+        <article class="project-card project-featured" data-category="ai">
+          <div class="card-topline"><span class="card-index">02 / PERSONAL AI</span><span class="card-status status-active">● IN SVILUPPO</span></div>
+          <div class="project-symbol symbol-pico" aria-hidden="true"><span class="pico-core">P</span><span class="pico-orbit orbit-one"></span><span class="pico-orbit orbit-two"></span></div>
+          <h3>PicoBot</h3>
+          <p class="project-subtitle">Personal assistant multi-agente, self-hosted.</p>
+          <p class="project-description">Un assistente personale basato su Agno 3, accessibile da Telegram, CLI e REST API. Coordina team di agenti, ricerca web, analisi, generazione documenti, skill, MCP, memoria e attività schedulate.</p>
+          <div class="tag-list"><span>Python</span><span>Agno 3</span><span>Telegram</span><span>MCP</span><span>Docker</span></div>
+          <div class="card-footer"><span class="repo-license">MIT · Self-hosted</span><a class="repo-link" href="https://github.com/jumping2000/picobot" target="_blank" rel="noopener noreferrer">Apri repository <span aria-hidden="true">↗</span></a></div>
+        </article>
+
+        <article class="project-card" data-category="smart-home">
+          <div class="card-topline"><span class="card-index">03 / HOME AUTOMATION</span><span class="card-status status-popular">● COMMUNITY</span></div>
+          <div class="project-symbol symbol-notifier" aria-hidden="true"><span class="notify-ring">◉</span><span class="notify-wave">)))</span></div>
+          <h3>Universal Notifier</h3>
+          <p class="project-subtitle">Un unico centro di controllo per le notifiche.</p>
+          <p class="project-description">Integrazione custom per Home Assistant che centralizza l'invio di notifiche verso Telegram, Companion App, Alexa, Google Home e altri canali, gestendo in modo coerente messaggi, TTS e volumi.</p>
+          <div class="tag-list"><span>Home Assistant</span><span>Python</span><span>HACS</span><span>Telegram</span><span>TTS</span></div>
+          <div class="card-footer"><span class="repo-meta"><span class="star">★</span> <span data-repo-stat="universal_notifier">228</span> <span class="repo-stat-label">stars</span></span><a class="repo-link" href="https://github.com/jumping2000/universal_notifier" target="_blank" rel="noopener noreferrer">Apri repository <span aria-hidden="true">↗</span></a></div>
+        </article>
+
+        <article class="project-card" data-category="smart-home">
+          <div class="card-topline"><span class="card-index">04 / HOME AUTOMATION</span><span class="card-status">● LIBRERIA</span></div>
+          <div class="project-symbol symbol-packages" aria-hidden="true"><span>{ }</span><i>YAML</i></div>
+          <h3>HA Packages</h3>
+          <p class="project-subtitle">Pacchetti e automazioni per Home Assistant.</p>
+          <p class="project-description">Configurazioni riutilizzabili per la smart home: automazioni, gestione degli elettrodomestici e integrazione con i sistemi di notifica.</p>
+          <div class="tag-list"><span>Home Assistant</span><span>YAML</span><span>Automation</span><span>AppDaemon</span></div>
+          <div class="card-footer"><span class="repo-meta"><span class="star">★</span> <span data-repo-stat="ha-packages">46</span> <span class="repo-stat-label">stars</span></span><a class="repo-link" href="https://github.com/jumping2000/ha-packages" target="_blank" rel="noopener noreferrer">Apri repository <span aria-hidden="true">↗</span></a></div>
+        </article>
+
+        <article class="project-card" data-category="smart-home">
+          <div class="card-topline"><span class="card-index">05 / HOME AUTOMATION</span><span class="card-status">● TOOLKIT</span></div>
+          <div class="project-symbol symbol-templates" aria-hidden="true"><span>&lt;/&gt;</span><i>JINJA</i></div>
+          <h3>HA Templates</h3>
+          <p class="project-subtitle">Template, Blueprint e componenti riutilizzabili.</p>
+          <p class="project-description">Una raccolta di template Jinja, blueprint, script AppDaemon e card per estendere e personalizzare Home Assistant.</p>
+          <div class="tag-list"><span>Jinja</span><span>Blueprint</span><span>AppDaemon</span><span>Python</span></div>
+          <div class="card-footer"><span class="repo-meta"><span class="star">★</span> <span data-repo-stat="ha-templates">12</span> <span class="repo-stat-label">stars</span></span><a class="repo-link" href="https://github.com/jumping2000/ha-templates" target="_blank" rel="noopener noreferrer">Apri repository <span aria-hidden="true">↗</span></a></div>
+        </article>
+      </div>
+
+      <div class="more-repos">
+        <div class="more-icon" aria-hidden="true">＋</div>
+        <div><strong>Il resto è nell'archivio.</strong><p>Altri esperimenti, configurazioni e repository sono disponibili sul profilo GitHub.</p></div>
+        <a class="button button-small button-ghost" href="https://github.com/jumping2000?tab=repositories" target="_blank" rel="noopener noreferrer">Esplora tutti <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="about-section" id="about">
+      <div class="about-inner section-shell">
+        <div class="eyebrow"><span class="section-number">02 /</span> ABOUT THE BUILDER</div>
+        <div class="about-grid">
+          <h2>La tecnologia<br>deve <span>risolvere.</span></h2>
+          <div class="about-copy">
+            <p>Mi interessa costruire soluzioni che semplificano il lavoro e la vita quotidiana: dall'automazione di casa agli agenti AI, fino agli strumenti che rendono più rigoroso il processo di sviluppo software.</p>
+            <p>Prediligo architetture pragmatiche, componenti riutilizzabili e risultati verificabili. I repository qui raccolti raccontano questo percorso, un progetto alla volta.</p>
+            <a class="text-link" href="https://github.com/jumping2000" target="_blank" rel="noopener noreferrer">Connettiti su GitHub <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner section-shell">
+      <a class="brand footer-brand" href="#top"><span class="brand-mark">J<span>_</span></span><span class="brand-name">JUMPING<span>2000</span></span></a>
+      <p>Built with curiosity <span>✳</span> and a little green code.</p>
+      <a href="https://github.com/jumping2000" target="_blank" rel="noopener noreferrer">GITHUB.COM/JUMPING2000 ↗</a>
+    </div>
+    <div class="footer-bottom"><span>© <span id="year">2026</span> GIANPIERO / JUMPING2000</span><span>NO TRACKERS · NO FRAMEWORKS · JUST STATIC FILES</span></div>
+  </footer>
+  <script src="assets/site.js" defer></script>
+</body>
+</html>
