@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jumping2000/advancedRAG/pull/1) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-2. 💪 Opened PR [#1](https://github.com/jumping2000/advancedRAG/pull/1) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-3. 🚀 Published release [v0.30.0 Refactoring after the first trial](https://github.com/jumping2000/sdd-playbook/releases/tag/v0.30.0) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
-4. 🎉 Merged PR [#1](https://github.com/jumping2000/sdd-playbook/pull/1) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
-5. 💪 Opened PR [#1](https://github.com/jumping2000/sdd-playbook/pull/1) in [jumping2000/sdd-playbook](https://github.com/jumping2000/sdd-playbook)
+1. 💪 Opened PR [#6](https://github.com/jumping2000/advancedRAG/pull/6) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+2. 💪 Opened PR [#5](https://github.com/jumping2000/advancedRAG/pull/5) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+3. 🎉 Merged PR [#4](https://github.com/jumping2000/advancedRAG/pull/4) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+4. 🎉 Merged PR [#3](https://github.com/jumping2000/advancedRAG/pull/3) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+5. 💪 Opened PR [#4](https://github.com/jumping2000/advancedRAG/pull/4) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
 <!--END_SECTION:activity-->
 
 ---
