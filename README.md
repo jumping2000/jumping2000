@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/jumping2000/advancedRAG/pull/6) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-2. 💪 Opened PR [#5](https://github.com/jumping2000/advancedRAG/pull/5) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-3. 🎉 Merged PR [#4](https://github.com/jumping2000/advancedRAG/pull/4) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-4. 🎉 Merged PR [#3](https://github.com/jumping2000/advancedRAG/pull/3) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-5. 💪 Opened PR [#4](https://github.com/jumping2000/advancedRAG/pull/4) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+1. 🎉 Merged PR [#7](https://github.com/jumping2000/advancedRAG/pull/7) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+2. 💪 Opened PR [#7](https://github.com/jumping2000/advancedRAG/pull/7) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+3. 🎉 Merged PR [#6](https://github.com/jumping2000/advancedRAG/pull/6) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+4. 🎉 Merged PR [#5](https://github.com/jumping2000/advancedRAG/pull/5) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+5. 💪 Opened PR [#6](https://github.com/jumping2000/advancedRAG/pull/6) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
 <!--END_SECTION:activity-->
 
 ---
