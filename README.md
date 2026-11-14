@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ [0.8.3] - 2026-11-09 Web search improvments](https://github.com/jumping2000/picobot/releases/tag/v0.8.3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
-2. 🎉 Merged PR [#15](https://github.com/jumping2000/advancedRAG/pull/15) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-3. 💪 Opened PR [#15](https://github.com/jumping2000/advancedRAG/pull/15) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-4. 🎉 Merged PR [#14](https://github.com/jumping2000/advancedRAG/pull/14) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
-5. 💪 Opened PR [#14](https://github.com/jumping2000/advancedRAG/pull/14) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+1. 🎉 Merged PR [#9](https://github.com/jumping2000/picobot/pull/9) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+2. 💪 Opened PR [#9](https://github.com/jumping2000/picobot/pull/9) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+3. 🚀 Published release [ [0.8.3] - 2026-11-09 Web search improvments](https://github.com/jumping2000/picobot/releases/tag/v0.8.3) in [jumping2000/picobot](https://github.com/jumping2000/picobot)
+4. 🎉 Merged PR [#15](https://github.com/jumping2000/advancedRAG/pull/15) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
+5. 💪 Opened PR [#15](https://github.com/jumping2000/advancedRAG/pull/15) in [jumping2000/advancedRAG](https://github.com/jumping2000/advancedRAG)
 <!--END_SECTION:activity-->
 
 ---
